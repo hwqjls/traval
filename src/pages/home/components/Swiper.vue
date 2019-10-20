@@ -14,22 +14,15 @@
 <script>
 export default {
   name: 'HomeSwiper',
+  props: {
+    swiperList: Array
+  },
   data() {
     return {
       swiperOption: {
         loop: true,
         pagination: 'swiper-pagination'
-      },
-      swiperList: [{
-        id: '001',
-        imgUrl: "//source.qunarzz.com/site/images/wns/20190926_dujia_homepage_750x192_5.jpg"
-      },{
-        id: '002',
-        imgUrl: "//source.qunarzz.com/site/images/wns/20191014_dujia_homepage_top_banner_4.jpg"
-      },{
-        id: '003',
-        imgUrl: "//source.qunarzz.com/site/images/wns/20191017_dujia_homepage_750x192_5.jpg"
-      }]
+      }
     }
   },
   computed: {
