@@ -22,13 +22,13 @@ export default {
       },
       swiperList: [{
         id: '001',
-        imgUrl: "//img1.qunarzz.com/sight/p0/1909/d2/d262bc6fb6500df3a3.img.jpg_600x330_58fbd3da.jpg"
+        imgUrl: "//source.qunarzz.com/site/images/wns/20190926_dujia_homepage_750x192_5.jpg"
       },{
         id: '002',
-        imgUrl: "//img1.qunarzz.com/sight/p0/1505/18/18ffcca94b1b7ca2.water.jpg_600x330_cd78f1b7.jpg"
+        imgUrl: "//source.qunarzz.com/site/images/wns/20191014_dujia_homepage_top_banner_4.jpg"
       },{
         id: '003',
-        imgUrl: "//img1.qunarzz.com/sight/p0/1501/89/babe532d89b23ac070bc09dd092dc9b0.water.jpg_600x330_0e666363.jpg"
+        imgUrl: "//source.qunarzz.com/site/images/wns/20191017_dujia_homepage_750x192_5.jpg"
       }]
     }
   },
