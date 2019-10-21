@@ -70,6 +70,7 @@ div
   display flex
   width 100%
   height 2.4rem
+  margin-bottom .1rem
 
 .list-item .list-img
   width 2.4rem
